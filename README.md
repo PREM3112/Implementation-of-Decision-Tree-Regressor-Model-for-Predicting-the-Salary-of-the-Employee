@@ -35,8 +35,8 @@ STEP 11: End
 ```
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: Akshaya S
-RegisterNumber:  212223220006
+Developed by: PREM R
+RegisterNumber:  212223240124
 */
 ```
 ```
@@ -77,7 +77,7 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-data head() :
+## data head() :
 
 ![image](https://github.com/user-attachments/assets/e862e0f8-12c3-4efb-ae57-0e9bcff1db47)
 
@@ -85,11 +85,11 @@ mean_squared_error :
 
 ![image](https://github.com/user-attachments/assets/ed05c48b-b279-4500-b0a0-c19a6b2fc03e)
 
-r2 :
+## r2 :
 
 ![image](https://github.com/user-attachments/assets/4480145f-95b4-4ae4-bafb-7c7a63042077)
 
-predict :
+## predict :
 
 ![image](https://github.com/user-attachments/assets/a1fd03e8-79d6-4bc8-9601-d021e476eb47)
 
